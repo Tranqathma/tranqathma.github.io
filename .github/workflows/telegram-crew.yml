@@ -41,7 +41,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/crew.json data/crew_state.json crew
+          git add data/crew.json data/crew_state.json
+          if [ -d crew ]; then
+            git add crew
+          fi
 
           if git diff --cached --quiet; then
             echo "No Telegram changes to commit."
