@@ -52,4 +52,6 @@ jobs:
           fi
 
           git commit -m "Sync Telegram crew feed"
-          git push
+
+          git pull --rebase origin main
+          git push origin HEAD:main
