@@ -1,0 +1,10 @@
+{
+ "source": "niti_sdg",
+ "name": "NITI Aayog, SDG India Index 2023-24",
+ "url": "https://www.niti.gov.in/reports-sdg",
+ "side": "india",
+ "sha256": "d2ab769d1ec8bfcf7c1630e4e58cfc1dfc49c9394af5089a24083e63cf72d9b0",
+ "retrieved_at_utc": "2026-09-20T20:06:35+00:00",
+ "origin": "stored snapshot",
+ "bytes": 1306
+}

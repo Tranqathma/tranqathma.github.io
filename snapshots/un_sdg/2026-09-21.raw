@@ -1,0 +1,53 @@
+{
+ "_note": "UN Sustainable Development Goals Report 2025 global figures. Read 21 September 2026.",
+ "fields": {
+  "1.1.1": {
+   "country": "WLD",
+   "value": 9.9,
+   "unit": "%",
+   "period": "2025"
+  },
+  "2.2.2": {
+   "country": "WLD",
+   "value": 6.6,
+   "unit": "%",
+   "period": "2024"
+  },
+  "4.1.2": {
+   "country": "WLD",
+   "value": 88,
+   "unit": "%",
+   "period": "2024"
+  },
+  "6.1.1": {
+   "country": "WLD",
+   "value": 74,
+   "unit": "%",
+   "period": "2024"
+  },
+  "7.1.1": {
+   "country": "WLD",
+   "value": 92,
+   "unit": "%",
+   "period": "2023"
+  },
+  "8.5.2": {
+   "country": "WLD",
+   "value": 5.0,
+   "unit": "%",
+   "period": "2024"
+  },
+  "16.1.1": {
+   "country": "WLD",
+   "value": 5.2,
+   "unit": "per 100000",
+   "period": "2023"
+  },
+  "17.8.1": {
+   "country": "WLD",
+   "value": 68,
+   "unit": "%",
+   "period": "2024"
+  }
+ }
+}

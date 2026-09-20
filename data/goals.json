@@ -1,0 +1,668 @@
+[
+ {
+  "n": 1,
+  "title": "No Poverty",
+  "hue": "#E5243B",
+  "question": "Is a person in India protected when income stops?",
+  "india": {
+   "score": 72,
+   "prev": 60,
+   "prev_period": "2020-21",
+   "band": "Front Runner",
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": {
+   "label": "Social protection coverage",
+   "value": 65.3,
+   "unit": "%",
+   "period": "2026",
+   "prior": 22.0,
+   "prior_period": "2016",
+   "source": "MoSPI, National Indicator Framework Progress Report 2026",
+   "code": "1.3.1"
+  },
+  "world": [
+   {
+    "label": "Living in extreme poverty",
+    "value": "9.9%",
+    "note": "808 million people, 1 in 10",
+    "period": "2025 estimate",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Covered by any social protection",
+    "value": "52.4%",
+    "note": "from 42.8% in 2015",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "improving",
+  "reading": "India's own social protection coverage now runs well above the world figure, having tripled in ten years."
+ },
+ {
+  "n": 2,
+  "title": "Zero Hunger",
+  "hue": "#DDA63A",
+  "question": "Are Indian children getting enough to grow?",
+  "india": {
+   "score": null,
+   "band": "Performer",
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": {
+   "label": "Child wasting, under five",
+   "value": 19.0,
+   "unit": "%",
+   "period": "2026",
+   "note": "the highest rate recorded anywhere",
+   "source": "Sustainable Development Report 2026",
+   "code": "2.2.2"
+  },
+  "india_extra": [
+   {
+    "label": "Child stunting",
+    "value": "29.3%",
+    "source": "Sustainable Development Report 2026"
+   },
+   {
+    "label": "Undernourishment",
+    "value": "12%",
+    "note": "rising",
+    "source": "Sustainable Development Report 2026"
+   }
+  ],
+  "world": [
+   {
+    "label": "Child wasting",
+    "value": "6.6%",
+    "note": "from 7.4% in 2012",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Child stunting",
+    "value": "23.2%",
+    "note": "from 26.4% in 2012",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Undernourishment",
+    "value": "8.2%",
+    "note": "638 to 720 million people",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "major challenge",
+  "reading": "India's child wasting rate is close to three times the world figure and is the worst recorded on earth. This is the single hardest number on the register."
+ },
+ {
+  "n": 3,
+  "title": "Good Health and Well-being",
+  "hue": "#4C9F38",
+  "question": "How many mothers die giving birth in India?",
+  "india": {
+   "score": 77,
+   "prev": 52,
+   "prev_period": "2018",
+   "band": "Front Runner",
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": {
+   "label": "Maternal mortality ratio",
+   "value": 87,
+   "unit": "per 100,000 live births",
+   "period": "2022-24",
+   "prior": 122,
+   "prior_period": "2015-17",
+   "source": "MoSPI, National Indicator Framework Progress Report 2026",
+   "dispute": {
+    "value": 80,
+    "period": "2023",
+    "source": "WHO and UNICEF joint estimates",
+    "gap": 7
+   },
+   "code": "3.1.1"
+  },
+  "world": [
+   {
+    "label": "World average",
+    "value": "112",
+    "note": "mean of 188 countries",
+    "period": "2023",
+    "source": "WHO and UNICEF joint estimates"
+   }
+  ],
+  "best": {
+   "value": 1,
+   "country": "Norway and Belarus",
+   "period": "2023",
+   "source": "WHO and UNICEF joint estimates"
+  },
+  "status": "major challenge",
+  "reading": "Two competent sources give India two different figures for the same indicator over overlapping years, and neither discloses the other."
+ },
+ {
+  "n": 4,
+  "title": "Quality Education",
+  "hue": "#C5192D",
+  "question": "Do children finish school, and can they read when they do?",
+  "india": {
+   "score": 61,
+   "prev": 57,
+   "prev_period": "2020-21",
+   "band": "Performer",
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": null,
+  "world": [
+   {
+    "label": "Primary completion",
+    "value": "88%",
+    "note": "from 85% in 2015",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Upper secondary completion",
+    "value": "60%",
+    "note": "from 53% in 2015",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Children out of school",
+    "value": "272 million",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Primary pupils proficient in reading",
+    "value": "58%",
+    "note": "44% in mathematics",
+    "period": "2019",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "slow",
+  "reading": "India's education score moved four points. The world figure that matters more is that under six in ten primary pupils anywhere reach minimum proficiency in reading."
+ },
+ {
+  "n": 5,
+  "title": "Gender Equality",
+  "hue": "#FF3A21",
+  "question": "How many girls are born, and who holds the power?",
+  "india": {
+   "score": 49,
+   "prev": 36,
+   "prev_period": "2018",
+   "band": "Aspirant",
+   "source": "NITI Aayog, SDG India Index 2023-24",
+   "note": "the lowest score of any goal in India"
+  },
+  "india_ind": {
+   "label": "Sex ratio at birth",
+   "value": 918,
+   "unit": "females per 1,000 males",
+   "period": "2022-24",
+   "prior": 896,
+   "prior_period": "2015-17",
+   "source": "MoSPI, National Indicator Framework Progress Report 2026",
+   "code": "NIF-5"
+  },
+  "world": [
+   {
+    "label": "Seats held by women in parliament",
+    "value": "27.2%",
+    "note": "progress slowed to 0.3 points in a year",
+    "period": "Jan 2025",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Women in management",
+    "value": "30%",
+    "note": "parity is roughly 100 years away at this rate",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Married before 18",
+    "value": "19%",
+    "note": "nearly one in five young women",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "major challenge",
+  "reading": "Gender equality is the only goal on which India scores below 50. The sex ratio at birth is rising, but from a floor that should not exist."
+ },
+ {
+  "n": 6,
+  "title": "Clean Water and Sanitation",
+  "hue": "#26BDE2",
+  "question": "Can a household turn a tap and drink what comes out?",
+  "india": {
+   "score": 89,
+   "prev": 63,
+   "prev_period": "2018",
+   "band": "Front Runner",
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": null,
+  "world": [
+   {
+    "label": "Safely managed drinking water",
+    "value": "74%",
+    "note": "from 68% in 2015",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Safely managed sanitation",
+    "value": "58%",
+    "note": "from 48% in 2015",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Water stress, Central and Southern Asia",
+    "value": "over 75%",
+    "note": "critical, and the lowest use efficiency in the world",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "improving",
+  "reading": "India's own score is one of its highest. The region it sits in carries the world's most critical water stress, and the two facts have to be read together."
+ },
+ {
+  "n": 7,
+  "title": "Affordable and Clean Energy",
+  "hue": "#FCC30B",
+  "question": "Is the power reaching people, and where is it coming from?",
+  "india": {
+   "score": 96,
+   "prev": 51,
+   "prev_period": "2018",
+   "band": "Front Runner",
+   "source": "NITI Aayog, SDG India Index 2023-24",
+   "note": "India's highest scoring goal"
+  },
+  "india_ind": {
+   "label": "Renewable capacity per person",
+   "value": 193.36,
+   "unit": "watts",
+   "period": "2025-26",
+   "prior": 64.04,
+   "prior_period": "2014-15",
+   "source": "MoSPI, National Indicator Framework Progress Report 2026",
+   "code": "NIF-7"
+  },
+  "world": [
+   {
+    "label": "Access to electricity",
+    "value": "92%",
+    "note": "666.4 million still unconnected",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Access to clean cooking fuel",
+    "value": "74%",
+    "note": "2.1 billion still without",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Renewable share of final energy",
+    "value": "17.9%",
+    "note": "from 15.6% in 2015",
+    "period": "2022",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Installed renewable capacity per person",
+    "value": "478 watts",
+    "note": "world record, India named a driver",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "notable progress",
+  "reading": "India tripled renewable capacity per person in eleven years and is named by the UN as one of three countries driving world capacity growth."
+ },
+ {
+  "n": 8,
+  "title": "Decent Work and Economic Growth",
+  "hue": "#A21942",
+  "question": "Is there work, and is it worth having?",
+  "india": {
+   "score": null,
+   "band": "Front Runner",
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": {
+   "label": "Unemployment rate",
+   "value": 3.1,
+   "unit": "%",
+   "period": "2025",
+   "prior": 6.1,
+   "prior_period": "2017-18",
+   "source": "MoSPI, National Indicator Framework Progress Report 2026",
+   "code": "8.5.2"
+  },
+  "world": [
+   {
+    "label": "Global unemployment",
+    "value": "5.0%",
+    "note": "a record low",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Young people not in work, education or training",
+    "value": "1 in 5",
+    "note": "259 million",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Young women not in work or education, this region",
+    "value": "41.9%",
+    "note": "against 11.5% for young men",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "improving",
+  "reading": "India's headline unemployment sits below the world figure. The regional figure for young women, at 41.9 per cent, is the one that should be read next to it."
+ },
+ {
+  "n": 9,
+  "title": "Industry, Innovation and Infrastructure",
+  "hue": "#FD6925",
+  "question": "Who is connected, and to what?",
+  "india": {
+   "score": 61,
+   "prev": 41,
+   "prev_period": "2018",
+   "band": "Performer",
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": {
+   "label": "Internet subscriptions",
+   "value": 969.1,
+   "unit": "million",
+   "period": "2025",
+   "prior": 302.36,
+   "prior_period": "2015",
+   "source": "MoSPI, National Indicator Framework Progress Report 2026",
+   "code": "9.c.1"
+  },
+  "world": [],
+  "status": "notable progress",
+  "reading": "Internet subscriptions in India more than tripled in ten years. The comparator for this goal has not been ingested and the cell stays blank until it is."
+ },
+ {
+  "n": 10,
+  "title": "Reduced Inequalities",
+  "hue": "#DD1367",
+  "question": "Is the bottom rising faster than the top?",
+  "india": {
+   "score": 65,
+   "prev": 67,
+   "prev_period": "2020-21",
+   "band": "Front Runner",
+   "source": "NITI Aayog, SDG India Index 2023-24",
+   "note": "the only goal on which India's score fell"
+  },
+  "india_ind": null,
+  "world": [
+   {
+    "label": "Labour share of GDP",
+    "value": "52.3%",
+    "note": "down from 52.9% in 2015, about $255 per worker lost",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Reported discrimination in the past year",
+    "value": "1 in 5",
+    "note": "rising from 14.8% to 17.1%",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Cost of sending $200 home",
+    "value": "6.7%",
+    "note": "more than double the 3% target",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "declining",
+  "reading": "This is the only goal on which India's own index score went down. Worldwide, productivity gains are not reaching wages."
+ },
+ {
+  "n": 11,
+  "title": "Sustainable Cities and Communities",
+  "hue": "#FD9D24",
+  "question": "Can a city household afford a decent place to live?",
+  "india": {
+   "score": 83,
+   "prev": 39,
+   "prev_period": "2018",
+   "band": "Front Runner",
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": null,
+  "world": [
+   {
+    "label": "Living in slums or informal settlements",
+    "value": "1.12 billion",
+    "note": "up to 3 billion struggle to afford housing",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Household income spent on housing",
+    "value": "31.0%",
+    "note": "world average",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "major challenge",
+  "reading": "India's index score on cities more than doubled since 2018, while the international assessment still classes this goal a major challenge for India."
+ },
+ {
+  "n": 12,
+  "title": "Responsible Consumption and Production",
+  "hue": "#BF8B2E",
+  "question": "How much does the country consume to produce what it produces?",
+  "india": {
+   "score": null,
+   "band": null,
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": null,
+  "world": [],
+  "status": "declining",
+  "reading": "No admissible figure has been ingested for either India or the world. The international assessment reports the direction as worsening, and that direction is all this register will assert until it has a number."
+ },
+ {
+  "n": 13,
+  "title": "Climate Action",
+  "hue": "#3F7E44",
+  "question": "What is each Indian emitting, and what is the planet doing?",
+  "india": {
+   "score": 67,
+   "prev": 54,
+   "prev_period": "2020-21",
+   "band": "Front Runner",
+   "source": "NITI Aayog, SDG India Index 2023-24",
+   "note": "India's largest single improvement, up 13 points"
+  },
+  "india_ind": {
+   "label": "Carbon dioxide per person",
+   "value": 2.21,
+   "unit": "tonnes",
+   "period": "2026",
+   "note": "a record high for India",
+   "source": "Sustainable Development Report 2026",
+   "code": "13.2.2"
+  },
+  "world": [
+   {
+    "label": "Temperature above pre-industrial",
+    "value": "1.55 C",
+    "note": "2024 was the hottest year on record",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Greenhouse gas emissions",
+    "value": "57.1 Gt",
+    "note": "CO2 equivalent, up 1.3% on 2022",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "declining",
+  "reading": "India's index score rose more on this goal than on any other, while its emissions per person reached a record high. Both are true and the register publishes both."
+ },
+ {
+  "n": 14,
+  "title": "Life Below Water",
+  "hue": "#0A97D9",
+  "question": "What is happening to the sea along 7,500 kilometres of coast?",
+  "india": {
+   "score": null,
+   "band": null,
+   "source": "NITI Aayog, SDG India Index 2023-24",
+   "note": "excluded from India's composite, computed for coastal states only"
+  },
+  "india_ind": null,
+  "world": [],
+  "status": "major challenge",
+  "reading": "Nothing admissible has been ingested. India's own index excludes this goal from its national composite, which is itself worth knowing."
+ },
+ {
+  "n": 15,
+  "title": "Life on Land",
+  "hue": "#56C02B",
+  "question": "How much forest is left, and how fast is it going?",
+  "india": {
+   "score": 75,
+   "prev": 66,
+   "prev_period": "2020-21",
+   "band": "Front Runner",
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": null,
+  "world": [
+   {
+    "label": "Forest cover",
+    "value": "31%",
+    "note": "4.1 billion hectares of land surface",
+    "period": "2020",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Forest lost each year",
+    "value": "10 million ha",
+    "note": "down from 12 million a year in 2010 to 2015",
+    "period": "2015-2020",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Land under protection",
+    "value": "17.6%",
+    "note": "against a 30% target for 2030",
+    "period": "2020",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Species threatened with extinction",
+    "value": "over 47,000",
+    "note": "the index has worsened 12% since 1993",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "major challenge",
+  "reading": "India's score on land rose nine points, while the international assessment still classes this a major challenge. The Indian forest figure has not yet been ingested."
+ },
+ {
+  "n": 16,
+  "title": "Peace, Justice and Strong Institutions",
+  "hue": "#00689D",
+  "question": "How safe is a person, and can they be seen by the state?",
+  "india": {
+   "score": null,
+   "band": null,
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": null,
+  "world": [
+   {
+    "label": "Intentional homicide rate",
+    "value": "5.2",
+    "note": "per 100,000, from 5.9 in 2015",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Conflict deaths",
+    "value": "48,384",
+    "note": "one life every 12 minutes, up 40% on 2023",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Forcibly displaced",
+    "value": "123.2 million",
+    "period": "end 2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "major challenge",
+  "reading": "On present trends the world homicide rate will fall 25 per cent by 2030 against a target of 50 per cent. India's own figure has not been ingested."
+ },
+ {
+  "n": 17,
+  "title": "Partnerships for the Goals",
+  "hue": "#19486A",
+  "question": "Who is online, and who is paying for the rest?",
+  "india": {
+   "score": null,
+   "band": null,
+   "source": "NITI Aayog, SDG India Index 2023-24"
+  },
+  "india_ind": null,
+  "world": [
+   {
+    "label": "People using the internet",
+    "value": "68%",
+    "note": "5.5 billion, from 40% in 2015",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Official development assistance",
+    "value": "$212.1 bn",
+    "note": "down 7.1% in real terms, expected to fall further",
+    "period": "2024",
+    "source": "UN Sustainable Development Goals Report 2025"
+   },
+   {
+    "label": "Debt service, lower and middle income countries",
+    "value": "$1.4 tn",
+    "note": "interest alone rose 37.1%",
+    "period": "2023",
+    "source": "UN Sustainable Development Goals Report 2025"
+   }
+  ],
+  "status": "slow",
+  "reading": "Two thirds of humanity is online. Development assistance fell for the first time in years, and debt service reached a record."
+ }
+]

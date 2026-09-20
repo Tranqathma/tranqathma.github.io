@@ -1,0 +1,30 @@
+{
+ "_note": "Sustainable Development Report 2026. Read 21 September 2026.",
+ "fields": {
+  "SDG-INDEX": {
+   "country": "IND",
+   "value": 68.33,
+   "rank": 94,
+   "period": "2026"
+  },
+  "SDG-INDEX_best": {
+   "country": "FIN",
+   "value": 87.4,
+   "rank": 1,
+   "is_best_attained": true,
+   "period": "2026"
+  },
+  "13.2.2": {
+   "country": "IND",
+   "value": 2.21,
+   "unit": "tonnes per capita",
+   "period": "2026"
+  },
+  "2.2.2": {
+   "country": "IND",
+   "value": 19.0,
+   "unit": "%",
+   "period": "2026"
+  }
+ }
+}

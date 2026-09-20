@@ -1,0 +1,41 @@
+{
+ "_note": "MoSPI National Indicator Framework Progress Report 2026, announced in PIB release 2279014 on 29 June 2026. Read 21 September 2026.",
+ "fields": {
+  "1.3.1": {
+   "country": "IND",
+   "value": 65.3,
+   "unit": "%",
+   "period": "2026"
+  },
+  "3.1.1": {
+   "country": "IND",
+   "value": 87,
+   "unit": "per 100000 live births",
+   "period": "2022-24"
+  },
+  "NIF-5": {
+   "country": "IND",
+   "value": 918,
+   "unit": "females per 1000 males",
+   "period": "2022-24"
+  },
+  "NIF-7": {
+   "country": "IND",
+   "value": 193.36,
+   "unit": "watts per capita",
+   "period": "2025-26"
+  },
+  "8.5.2": {
+   "country": "IND",
+   "value": 3.1,
+   "unit": "%",
+   "period": "2025"
+  },
+  "9.c.1": {
+   "country": "IND",
+   "value": 969.1,
+   "unit": "million",
+   "period": "2025"
+  }
+ }
+}

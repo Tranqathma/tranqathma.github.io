@@ -1,0 +1,10 @@
+{
+ "source": "who_unicef",
+ "name": "WHO and UNICEF joint estimates",
+ "url": "https://www.who.int/data/gho",
+ "side": "world",
+ "sha256": "e82bcca05a2d3ae31edfade6901b157815e946710c9248fa82fbba5a0ca7fb4a",
+ "retrieved_at_utc": "2026-09-20T20:06:35+00:00",
+ "origin": "stored snapshot",
+ "bytes": 502
+}

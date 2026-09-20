@@ -1,0 +1,10 @@
+{
+ "source": "sdr",
+ "name": "Sustainable Development Report 2026",
+ "url": "https://dashboards.sdgindex.org/rankings/",
+ "side": "world",
+ "sha256": "ffd62fcdfeada77425e9e660646d093df97406cef69da48b6d167f67cfc06ffa",
+ "retrieved_at_utc": "2026-09-20T20:06:35+00:00",
+ "origin": "stored snapshot",
+ "bytes": 521
+}

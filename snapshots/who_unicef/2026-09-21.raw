@@ -1,0 +1,27 @@
+{
+ "_note": "WHO and UNICEF joint estimates on maternal mortality. Read 21 September 2026.",
+ "fields": {
+  "3.1.1": {
+   "country": "IND",
+   "value": 80,
+   "unit": "per 100000 live births",
+   "period": "2023"
+  },
+  "3.1.1_best": {
+   "country": "NOR",
+   "value": 1,
+   "is_best_attained": true,
+   "period": "2023",
+   "shared_with": [
+    "BLR"
+   ]
+  },
+  "3.1.1_world": {
+   "country": "WLD",
+   "value": 112,
+   "is_world_mean": true,
+   "period": "2023",
+   "basis": "188 countries"
+  }
+ }
+}

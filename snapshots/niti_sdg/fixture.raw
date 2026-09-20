@@ -1,0 +1,71 @@
+{
+ "_note": "NITI Aayog SDG India Index 2023-24 goal scores. Read 21 September 2026.",
+ "fields": {
+  "SCORE-1": {
+   "country": "IND",
+   "value": 72,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-3": {
+   "country": "IND",
+   "value": 77,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-4": {
+   "country": "IND",
+   "value": 61,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-5": {
+   "country": "IND",
+   "value": 49,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-6": {
+   "country": "IND",
+   "value": 89,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-7": {
+   "country": "IND",
+   "value": 96,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-9": {
+   "country": "IND",
+   "value": 61,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-10": {
+   "country": "IND",
+   "value": 65,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-11": {
+   "country": "IND",
+   "value": 83,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-13": {
+   "country": "IND",
+   "value": 67,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  },
+  "SCORE-15": {
+   "country": "IND",
+   "value": 75,
+   "unit": "index 0 to 100",
+   "period": "2023-24"
+  }
+ }
+}
