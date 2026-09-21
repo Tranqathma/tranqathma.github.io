@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T09:23:50+05:30",
+ "updated": "2026-09-21T11:12:17+05:30",
  "members": [
   {
    "telegram_id": "6236643143",
@@ -49,6 +49,26 @@
    "text": "I am ready, are you ready?",
    "photo": null,
    "at": "2026-09-21T09:04:45+05:30",
+   "pinned": false
+  },
+  {
+   "id": "11",
+   "by": "6236643143",
+   "name": "Jay",
+   "colour": "#F2C14E",
+   "text": "",
+   "photo": "crew/11.jpg",
+   "at": "2026-09-21T11:03:24+05:30",
+   "pinned": false
+  },
+  {
+   "id": "12",
+   "by": "6236643143",
+   "name": "Jay",
+   "colour": "#F2C14E",
+   "text": "This is Amazing!!",
+   "photo": null,
+   "at": "2026-09-21T11:10:04+05:30",
    "pinned": false
   }
  ]
