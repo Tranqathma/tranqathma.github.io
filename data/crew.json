@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T14:41:29+05:30",
+ "updated": "2026-09-21T17:25:35+05:30",
  "members": [
   {
    "telegram_id": "1905157678",
@@ -24,6 +24,14 @@
    "colour": "#7FB2F0",
    "photo": null,
    "joined": "2026-09-21T14:41:29+05:30"
+  },
+  {
+   "telegram_id": "8850238864",
+   "name": "Goutham",
+   "role": "Role not set yet",
+   "colour": "#E8654A",
+   "photo": null,
+   "joined": "2026-09-21T17:25:35+05:30"
   }
  ],
  "messages": [
@@ -45,6 +53,16 @@
    "text": "Jai Bharat",
    "photo": null,
    "at": "2026-09-21T14:36:49+05:30",
+   "pinned": false
+  },
+  {
+   "id": "3",
+   "by": "8850238864",
+   "name": "Goutham",
+   "colour": "#E8654A",
+   "text": "",
+   "photo": "crew/3.jpg",
+   "at": "2026-09-21T17:14:55+05:30",
    "pinned": false
   }
  ]
