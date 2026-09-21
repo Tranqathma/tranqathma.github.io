@@ -100,6 +100,14 @@ def fetch_photo(token, photo_sizes, msg_id):
     return f"crew/{out.name}"
 
 
+def command_name(text):
+    """Return a Telegram command name, accepting /drop and /drop@bot."""
+    if not text:
+        return ""
+    token = text.split(maxsplit=1)[0].casefold()
+    return token.split("@", 1)[0]
+
+
 def main():
     token = os.environ.get("TELEGRAM_TOKEN")
     if not token:
@@ -128,19 +136,29 @@ def main():
 
         text = (msg.get("text") or msg.get("caption") or "").strip()
         reply = msg.get("reply_to_message")
+        command = command_name(text)
 
-        # commands, used by replying to a message
-        if text.lower().startswith("/drop") and reply:
-            before = len(crew["messages"])
-            crew["messages"] = [m for m in crew["messages"]
-                                if m["id"] != str(reply["message_id"])]
-            dropped += before - len(crew["messages"])
-            continue
-        if text.lower().startswith("/pin") and reply:
-            for m in crew["messages"]:
-                if m["id"] == str(reply["message_id"]):
-                    m["pinned"] = True
-                    pinned += 1
+        # Moderation commands must never be published as ordinary messages.
+        if command in {"/drop", "/pin"}:
+            if not reply:
+                print(
+                    f"  {command} ignored: Telegram supplied no reply_to_message "
+                    f"(update={u['update_id']}, message={msg.get('message_id')})"
+                )
+                continue
+
+            target_id = str(reply["message_id"])
+            if command == "/drop":
+                before = len(crew["messages"])
+                crew["messages"] = [m for m in crew["messages"] if m["id"] != target_id]
+                dropped += before - len(crew["messages"])
+                print(f"  dropped Telegram message {target_id}")
+            else:
+                for m in crew["messages"]:
+                    if m["id"] == target_id:
+                        m["pinned"] = True
+                        pinned += 1
+                print(f"  pinned Telegram message {target_id}")
             continue
 
         member = enrol(crew, msg["from"])
