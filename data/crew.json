@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T11:12:17+05:30",
+ "updated": "2026-09-21T11:45:30+05:30",
  "members": [
   {
    "telegram_id": "6236643143",
@@ -8,6 +8,14 @@
    "colour": "#F2C14E",
    "photo": null,
    "joined": "2026-09-21T04:11:49+05:30"
+  },
+  {
+   "telegram_id": "1905157678",
+   "name": "T N Raju",
+   "role": "Role not set yet",
+   "colour": "#4FC3B0",
+   "photo": null,
+   "joined": "2026-09-21T11:45:30+05:30"
   }
  ],
  "messages": [
@@ -69,6 +77,16 @@
    "text": "This is Amazing!!",
    "photo": null,
    "at": "2026-09-21T11:10:04+05:30",
+   "pinned": false
+  },
+  {
+   "id": "14",
+   "by": "1905157678",
+   "name": "T N Raju",
+   "colour": "#4FC3B0",
+   "text": "It's time to feel joy ...",
+   "photo": null,
+   "at": "2026-09-21T11:38:22+05:30",
    "pinned": false
   }
  ]
