@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T17:43:59+05:30",
+ "updated": "2026-09-21T18:03:19+05:30",
  "members": [
   {
    "telegram_id": "1905157678",
@@ -66,16 +66,6 @@
    "pinned": false
   },
   {
-   "id": "4",
-   "by": "6236643143",
-   "name": "Jay",
-   "colour": "#4FC3B0",
-   "text": "\\drop",
-   "photo": null,
-   "at": "2026-09-21T17:31:10+05:30",
-   "pinned": false
-  },
-  {
    "id": "5",
    "by": "6236643143",
    "name": "Jay",
@@ -83,6 +73,16 @@
    "text": "",
    "photo": "crew/5.jpg",
    "at": "2026-09-21T17:33:50+05:30",
+   "pinned": false
+  },
+  {
+   "id": "7",
+   "by": "6236643143",
+   "name": "Jay",
+   "colour": "#4FC3B0",
+   "text": "/drop",
+   "photo": null,
+   "at": "2026-09-21T17:47:31+05:30",
    "pinned": false
   }
  ]
