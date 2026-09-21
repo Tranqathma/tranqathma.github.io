@@ -2,14 +2,6 @@
  "updated": "2026-09-21T12:59:59+05:30",
  "members": [
   {
-   "telegram_id": "6236643143",
-   "name": "Jay",
-   "role": "Role not set yet",
-   "colour": "#F2C14E",
-   "photo": null,
-   "joined": "2026-09-21T04:11:49+05:30"
-  },
-  {
    "telegram_id": "1905157678",
    "name": "T N Raju",
    "role": "Role not set yet",
@@ -19,56 +11,6 @@
   }
  ],
  "messages": [
-  {
-   "id": "7",
-   "by": "6236643143",
-   "name": "Jay",
-   "colour": "#F2C14E",
-   "text": "Hi, Welcome to the Tranqathma",
-   "photo": null,
-   "at": "2026-09-21T04:09:45+05:30",
-   "pinned": false
-  },
-  {
-   "id": "8",
-   "by": "6236643143",
-   "name": "Jay",
-   "colour": "#F2C14E",
-   "text": "Hi, Welcome to the Tranqathma",
-   "photo": null,
-   "at": "2026-09-21T04:14:27+05:30",
-   "pinned": false
-  },
-  {
-   "id": "9",
-   "by": "6236643143",
-   "name": "Jay",
-   "colour": "#F2C14E",
-   "text": "Hi, Welcome to the Tranqathma",
-   "photo": null,
-   "at": "2026-09-21T04:28:13+05:30",
-   "pinned": false
-  },
-  {
-   "id": "11",
-   "by": "6236643143",
-   "name": "Jay",
-   "colour": "#F2C14E",
-   "text": "",
-   "photo": "crew/11.jpg",
-   "at": "2026-09-21T11:03:24+05:30",
-   "pinned": false
-  },
-  {
-   "id": "12",
-   "by": "6236643143",
-   "name": "Jay",
-   "colour": "#F2C14E",
-   "text": "This is Amazing!!",
-   "photo": null,
-   "at": "2026-09-21T11:10:04+05:30",
-   "pinned": false
-  },
   {
    "id": "14",
    "by": "1905157678",
